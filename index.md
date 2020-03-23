@@ -16,6 +16,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Contact
 
-[Gmail](hwakasu@gmail.com)
+[Gmail](mailto:hwakasu@gmail.com)
 [Github](https://github.com/hwakasu)
-[Twitter](http://https://twitter.com/hwakasu)
+[Twitter](https://twitter.com/hwakasu)
